@@ -1,0 +1,15 @@
+
+/* Container for all of content */
+#container {
+    /* background-color: grey; */
+    width: 360px;
+    margin: 0 auto;
+    border: 2px solid grey;
+}
+
+/* todo list */
+
+.completed{
+    color: gray;
+    text-decoration: line-through;
+}
